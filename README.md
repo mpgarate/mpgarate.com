@@ -1,5 +1,5 @@
 # Michael Garate
-I'm a **Software Engineer** currently at **Etsy** working on **Machine Learning Infrastructure**.
+I'm a **Software Engineer** currently at **Etsy** leading **Machine Learning Infrastructure** projects.
 
 ## Contact
 - [michael@garate.email](mailto:michael@garate.email)
