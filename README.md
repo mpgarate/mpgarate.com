@@ -1,5 +1,5 @@
 # Michael Garate
-I'm a **Software Engineer** currently at **Etsy** working on **Machine Learning Infrastructure** that powers Etsy Search, Ads, and Recommendations.
+I'm a **Software Engineer** currently at **Etsy** working on **Machine Learning Infrastructure**.
 
 ## Contact
 - [michael@garate.email](mailto:michael@garate.email)
