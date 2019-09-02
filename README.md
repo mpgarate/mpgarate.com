@@ -1,7 +1,14 @@
 # Michael Garate
-Etsy - Senior Software Engineer on Machine Learning Infrastructure
+**Etsy** - Senior Software Engineer on Machine Learning Infrastructure
 
+## Contact
 - [michael@garate.email](mailto:michael@garate.email)
-- [Resume](https://docs.google.com/document/d/1MXwxtcTSsGAPKCYOreMZ3lpVVDFdWO_2-o7R80zpNzc/edit?usp=sharing)
 - [LinkedIn](http://linkedin.com/in/mpgarate/)
 - [GitHub](https://github.com/mpgarate)
+
+## Resume
+- [Resume](https://docs.google.com/document/d/1MXwxtcTSsGAPKCYOreMZ3lpVVDFdWO_2-o7R80zpNzc/edit?usp=sharing)
+
+## Open Source
+### fastText vector export optimization
+Etsy uses [fastText](https://github.com/facebookresearch/fastText/) to generate word vectors for a variety of ML applications. [This code change](https://github.com/facebookresearch/fastText/pull/843) allows fastText to serialize floating point values using multiple cores, which reduced the runtime of many Etsy workloads from hours to minutes.
