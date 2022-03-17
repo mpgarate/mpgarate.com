@@ -6,7 +6,7 @@ date:   2022-03-17
 
 In a 30 day period I’m getting married, switching jobs, mourning the loss of my dog, moving across the country, and releasing a post-classical piano EP on major streaming sites. So naturally... here’s a link to the music on <a href="https://open.spotify.com/album/3qFIB2qmz8X1EglbzMMT20?si=XpWU86nyQKyHOm4E-8Md3Q" alt="Shamrock by Michael Garate on Spotify" target="_blank">Spotify</a> and <a href="https://michaelgarate.bandcamp.com/album/shamrock" alt="Shamrock by Michael Garate on Bandcamp" target="_blank">Bandcamp</a>.
 
-Click or Scan to listen on Spotify
+Click or Scan QR code below to listen on Spotify
 
 <a href="https://open.spotify.com/album/3qFIB2qmz8X1EglbzMMT20?si=XpWU86nyQKyHOm4E-8Md3Q" alt="Shamrock by Michael Garate on Spotify">
   <img height="100px" alt="Shamrock by Michael Garate on Spotify" src="/assets/music/shamrock-spotify-code.jpg" />
@@ -20,6 +20,6 @@ My dog Missy sat next to me every day from the beginning of recording through re
 
 Now I can look to the future. Alice and I are moving to New Jersey (NYC metro area, send me a message if you want to get dinner) and I am starting a new job at Etsy. I will be a “boomerang” at Etsy, and I want to be clear that it’s not a reflection of company A vs company B. LinkedIn has been a fantastic place to work and I would highly recommend it: the people, the work, the benefits, and the remote friendliness. It was time for me to shake things up career-wise, and I got excited about the work of my future team at Etsy. More to come on that another time.
 
-At LinkedIn I’ve had the chance to work with a great team on the largest cloud migration I’ve ever heard of, with an end goal of moving 100% of apps to Azure from over 300k bare metal servers. I made my mark on shared infrastructure for VM images, a software firewall, disk layouts, infrastructure automation, and providing a query interface for host metadata at scale. We’re the team whose software runs on every host at the company, and that’s a fun place to be an IC! I look forward to hearing what you all do next.
+At LinkedIn I’ve had the chance to work with a great team on the largest cloud migration I’ve ever heard of, with an end goal of moving 100% of apps to Azure from over 300k bare metal servers. I made my mark on shared infrastructure for VM images, a software firewall, disk layouts, infrastructure automation, and providing a query interface for host metadata at scale. We’re the team whose software runs on every host at the company, and that’s a fun place to be an IC!
 
-I hope this record brings you some peace and optimism during a quiet moment of your day. Spotify’s algorithm prioritizes music that gets added to playlists and listened to again later. If you feel so inclined, feel free to share it with someone who you think will appreciate it!
+I hope this record brings you some peace and optimism during a quiet moment of your day. Spotify’s algorithm prioritizes music that gets added to playlists and listened to again later. If you feel so inclined, please share it with someone who you think will appreciate it!
