@@ -1,2 +1,2 @@
 # [Michael Garate](/)
-I'm a **Senior Software Engineer** at **LinkedIn** building **Production Infrastructure**. Previously, I was at **Etsy** leading the **Machine Learning Infrastructure** team.
+I'm a **Musician** and **Software Engineer**. I previously worked at **LinkedIn** building **Production Infrastructure** and at **Etsy** leading the **Machine Learning Infrastructure** team.
