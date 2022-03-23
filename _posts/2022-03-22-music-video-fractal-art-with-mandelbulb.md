@@ -81,7 +81,7 @@ We can summarize the change between them as follows.
 
 <img width="512px" alt="Full loop preview" src="/assets/music/video-fractal-post/loop-full.gif" />
 
-It took about 6 days for my home PC to render 1700 frames at 1440p (with 2x upscaling for antialiasing).
+It took about **6 days** for my home PC to render 1700 frames at 1440p (with 2x upscaling for antialiasing). Due to the long render times, I tested by exporting low framerate and low resolution versions. As I got closer to the end product I spun up a 64 core windows VM in Azure for a few hours to allow faster iteration. I did not use this for the final render due to cost. Instead I kicked off a render on my Ryzen 5 3600 before going on a road trip to Mendocino for a few days.
 
 Next, I manually touched up a few images that had blown out highlights and sent all of the images through [Flowframes](https://nmkd.itch.io/flowframes) to quadruple the framerate using RIFE (NCNN) for interpolation. The result was a nearly 2 minute video at 60fps that could seamlessly loop from start to end.
 
