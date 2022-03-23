@@ -23,3 +23,11 @@ Now I can look to the future. Alice and I are moving to New Jersey (NYC metro ar
 I hope this record brings you some peace and optimism during a quiet moment of your day. Spotify’s algorithm prioritizes music that gets added to playlists and listened to again later. If you feel so inclined, please share it with someone who you think will appreciate it!
 
 <a href="http://instagram.com/michael.garate.music" alt="Michael Garate Music on Instagram">instagram.com/michael.garate.music</a>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GlMZtZ7Ji7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<a href="/assets/music/michael_and_missy_full.jpg" alt="Michael and Missy on the beach">
+  <img width="100%" alt="Michael and Missy on the beach" src="/assets/music/michael_and_missy_small.jpg" />
+</a>
