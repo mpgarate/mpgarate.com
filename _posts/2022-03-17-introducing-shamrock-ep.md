@@ -14,6 +14,8 @@ Click or Scan QR code below to listen on Spotify
 
 <iframe style="border: 0; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1021684361/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://michaelgarate.bandcamp.com/album/shamrock">Shamrock by Michael Garate</a></iframe>
 
+<br>
+
 With everything happening at once the EP took on a new meaning for me as a snapshot of my current life chapter. While I know that in 30 days I will still be myself, I will be forming new habits and a refreshed identity. Each track started as a piano piece improvised during a one week period in 2021. Off-grid improvisation allowed a close connection between the music I hear in my head and the end result. There simply was not time to plan and overthink the arrangement. It is what it is.
 
 My dog Missy sat next to me every day from the beginning of recording through receiving the final mastered record. She passed away last weekend after being a calming presence to my life for the last 6 years. If you’ve ever been in a zoom meeting with me, there’s a 50% chance she was sitting on my lap (yes even during a job interview). This music will always make me think of her.
@@ -27,7 +29,15 @@ I hope this record brings you some peace and optimism during a quiet moment of y
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GlMZtZ7Ji7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 <a href="/assets/music/michael_and_missy_full.jpg" alt="Michael and Missy on the beach">
-  <img width="100%" alt="Michael and Missy on the beach" src="/assets/music/michael_and_missy_small.jpg" />
+  <img width="560" alt="Michael and Missy on the beach" src="/assets/music/michael_and_missy_small.jpg" />
 </a>
+
+## Biography
+
+
+Michael Garate is a post-classical musician who colors piano improvisations with touches of electronic and orchestral elements. His recordings feature relaxed meter, meditative soundscapes, and hopeful melodies.
+
+Influences include Goldmund, Balmorhea, Nils Frahm, Ólafur Arnalds, Sophie Hutchings, Joe Hisaishi, Air.
