@@ -26,8 +26,13 @@ I hope this record brings you some peace and optimism during a quiet moment of y
 
 <a href="http://instagram.com/michael.garate.music" alt="Michael Garate Music on Instagram">instagram.com/michael.garate.music</a>
 
+## Media
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GlMZtZ7Ji7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<a href="https://drive.google.com/drive/folders/144ZzGRZQ3Ydg2aioPhcvWs1_4b79SL76?usp=sharing" alt="Video Clips for Instagram">Video Clips for instagram</a>
 
 <br>
 
@@ -35,7 +40,7 @@ I hope this record brings you some peace and optimism during a quiet moment of y
   <img width="560" alt="Michael and Missy on the beach" src="/assets/music/michael_and_missy_small.jpg" />
 </a>
 
-## Biography
+### Biography
 
 
 Michael Garate is a post-classical musician who colors piano improvisations with touches of electronic and orchestral elements. His recordings feature relaxed meter, meditative soundscapes, and hopeful melodies.
