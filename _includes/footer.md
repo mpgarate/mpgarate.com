@@ -1,5 +1,5 @@
 ## Contact
-- [Email](mailto:michael.garate.8r22l@simplelogin.com)
+- [Email](mailto:michael.garate.sar3u@simplelogin.com)
 - [LinkedIn](http://linkedin.com/in/mpgarate/)
 - [GitHub](https://github.com/mpgarate)
 - <a rel="me" href="https://mastodon.social/@mpgarate">Mastodon</a>
